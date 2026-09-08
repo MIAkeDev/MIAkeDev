@@ -56,8 +56,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 width="95%"
 />
 
-<br><br>
-
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIAkeDev&theme=tokyonight"
 height="170"
@@ -67,8 +65,6 @@ height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIAkeDev&theme=tokyonight"
 height="170"
 />
-
-<br><br>
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIAkeDev&theme=tokyonight"
