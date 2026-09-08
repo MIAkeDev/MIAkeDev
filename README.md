@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Manrique</h1>
+<h1 align="center">Hi!, I'm Michael Manrique</h1>
 
 <h3 align="center">
 Systems Engineering Student · Software Developer · AI Engineering
@@ -14,12 +14,12 @@ Systems Engineering Student · Software Developer · AI Engineering
 
 ## 🚀 About Me
 
-- 🤖 Learning **AI Engineering**
-- 📊 Improving my **Python & Data** skills
-- ⚙️ Building **Backend Projects**
-- 🌐 Working with **React & Laravel**
-- 🧠 Exploring **Machine Learning, RAG & AI Agents**
-- 🚀 Focused on building **real-world projects**
+- Learning **AI Engineering**
+- Improving my **Python & Data** skills
+- Building **Backend Projects**
+- Working with **React & Laravel**
+- Exploring **Machine Learning, RAG & AI Agents**
+- Focused on building **real-world projects**
 
 ---
 
@@ -101,23 +101,23 @@ width="330"
 </div>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 Leiar Parfum
+### Leiar Parfum
 Web project focused on perfume sales and imports.
 
-### ⚛️ React Projects
+### React Projects
 Frontend development with React and TypeScript.
 
-### 🤖 AI Projects
+### AI Projects
 Machine Learning, Deep Learning, RAG and AI Agents.
 
-### ⚙️ Backend Projects
+### Backend Projects
 Laravel, APIs, databases and software architecture.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <p align="center">
 
@@ -135,7 +135,7 @@ Laravel, APIs, databases and software architecture.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
