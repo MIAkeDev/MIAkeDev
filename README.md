@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Michael Manrique</h1>
+<h3 align="center">Systems Engineering Student | Software Developer | AI Engineering</h3>
 
-<!--
-**MIAkeDev/MIAkeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineering+Student;Machine+Learning+Enthusiast;Backend+Developer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```python
+michael = {
+    "career": "Systems & Computer Engineering",
+    "university": "Universidad Nacional de Moquegua",
+    "location": "Peru 🇵🇪",
+
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Software Engineering"
+    ],
+
+    "currently_learning": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "LLMs",
+        "RAG",
+        "AI Agents"
+    ]
+}
